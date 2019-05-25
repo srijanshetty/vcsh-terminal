@@ -1,0 +1,12 @@
+*
+!.config
+!.config/alacritty
+!.config/alacritty/alacritty.yml
+!.dircolors
+!.dircolors/*
+!.gitignore.d
+!.gitignore.d/terminal
+!.LICENSES.d
+!.LICENSES.d/terminal
+!.README.d/
+!.README.d/terminal.d
